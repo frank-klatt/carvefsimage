@@ -1,0 +1,1 @@
+Instructions detailing the setup of a small Hadoop cluster can be found in the following repository: https://github.com/ashemery/HDFS
